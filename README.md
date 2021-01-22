@@ -13,8 +13,20 @@
 </a>
 <a target="_blank" href="mailto:arycleniobarros@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+
+ </a>
+ </br>
  
+ 
+ ----
+olá sou o jhonatas , mas pode me chamar de *jhoni*.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+sou técnico e eletrônica a **14 anos** , mas estou iniciando um novo 
+passo em um objetivo pessoal que é ser programador front-end.
+
+>Quem nunca errou nunca  esperimentou algo novo.
+ __*Albert Einstein*__
+
+
 
 <!--
 **jhonatasgoulart/jhonatasgoulart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
