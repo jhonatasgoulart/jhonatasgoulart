@@ -20,6 +20,7 @@
  
  ----
 olá sou o jhonatas , mas pode me chamar de *jhoni*.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 sou técnico e eletrônica a **14 anos** , mas estou iniciando um novo 
 passo em um objetivo pessoal que é ser programador front-end.
 
