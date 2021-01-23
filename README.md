@@ -19,13 +19,14 @@
  
  
  ----
-olá sou o jhonatas , mas pode me chamar de *jhoni*.<img src=" https://github.com/jhonatasgoulart/hey-there.git/Earth.gif" width="24px">
+olá sou o jhonatas , mas pode me chamar de *jhoni*.<img src="https://github.com/jhonatasgoulart/jhonatasgoulart/blob/main/Assets/Earth.gif" width="24px">
 
 sou técnico e eletrônica a **14 anos** , mas estou iniciando um novo 
 passo em um objetivo pessoal que é ser programador front-end.
 
->Quem nunca errou nunca  esperimentou algo novo.
- __*Albert Einstein*__
+>Quem nunca errou nunca  esperimentou algo novo. <img src="https://github.com/jhonatasgoulart/jhonatasgoulart/blob/main/Assets/Rocket.gif" width="24px"> 
+
+__*Albert Einstein*__
 
 
 
